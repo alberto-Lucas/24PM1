@@ -1,2 +1,5 @@
 
 *.vsidx
+*.v2
+*.bin
+AppLogin/.vs/AppLogin/v17/.suo
