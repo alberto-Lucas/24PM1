@@ -3,13 +3,24 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppLogin.MainPage">
 
-    <ScrollView>
-        <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0"
-            VerticalOptions="Center">
+    <StackLayout Padding="20" VerticalOptions="StartAndExpand">
 
-        </VerticalStackLayout>
-    </ScrollView>
+        <Frame Padding="20" CornerRadius="0" BackgroundColor="#1e1e1e">
+            <Label Text="Olá Mundo!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
 
+        <Frame CornerRadius="10">
+            <StackLayout>
+                <Label Text="Uusário:"/>
+                <Entry Placeholder="usuário" x:Name="txtUsuario"/>
+                <Label Text="Senha:"/>
+                <Entry Placeholder="senha" x:Name="txtSenha"/>
+                <Button x:Name="btnEntrar"
+                            Clicked="EntrarClicked"
+                            Text="ENTRAR" 
+                            BackgroundColor="Gray" 
+                            TextColor="White"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
 </ContentPage>
