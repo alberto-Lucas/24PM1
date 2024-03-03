@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DisposicaoComponente.MainPage">
+    <ScrollView>
+        <StackLayout
+            Orientation="Vertical"
+            Padding="20">
+
+            <Label Text="Teste1"/>
+
+            <Label Text="Teste2"
+                   HorizontalOptions="Center"/>
+
+            <Label Text="Teste3"
+                   HorizontalOptions="End"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Teste"
+                       HorizontalOptions="StartAndExpand"/>
+                <Label Text="Teste"/>
+                <Label Text="Teste4"
+                   HorizontalOptions="CenterAndExpand"
+                   BackgroundColor="Blue"/>
+             <Label Text="Teste5"/>
+            </StackLayout>
+
+            <Label Text="Vertical"
+                   VerticalOptions="CenterAndExpand"/>
+            <Label Text="teste"/>
+
+
+
+            <Button Text="Teste"
+                    BackgroundColor="Gray"/>
+            <Button Text="Teste"
+                    WidthRequest="200"/>
+            <Button Text="Teste"
+                    WidthRequest="200"/>
+            <Button Text="Teste"
+                    WidthRequest="200"/>
+
+            <Button Text="Teste"/>
+
+            <StackLayout 
+                WidthRequest="150">
+                <Button Text="Teste"/>
+                <Button Text="Teste"/>
+                <Button Text="Teste"/>
+            </StackLayout>
+
+            <StackLayout 
+                Orientation="Horizontal"
+                BackgroundColor="Red">
+                
+                <Button Text="Testejhghjgjh"
+                        HorizontalOptions="StartAndExpand"/>
+                <Button Text="Teste"/>
+            </StackLayout>
+
+            <Frame 
+                BackgroundColor="Gray"
+                CornerRadius="15">
+                
+                <Label Text="Teste"/>
+                
+
+            </Frame>
+
+            <StackLayout 
+                Orientation="Horizontal">
+                <CheckBox/>
+                <Label Text="Marque"
+                       VerticalOptions="Center"/>
+            </StackLayout>
+
+            <Entry
+                Placeholder="digite aqui"
+                x:Name="txtCampo"/>
+
+            <Button Text="Abrir tela"
+                    Clicked="btnAbrir_Clicked"/>
+
+            <Button Text="Clique aqui!"
+                    BackgroundColor="Green"
+                    CornerRadius="20"
+                    Padding="20"
+                    TextColor="White"
+                    Clicked="btnCliqueAqui_Clicked"/>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
