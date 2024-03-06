@@ -3,24 +3,65 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppLogin.MainPage">
 
-    <StackLayout Padding="20" VerticalOptions="StartAndExpand">
+    <StackLayout Padding="20">
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Frame CornerRadius="10" BackgroundColor="#1e1e1e" >
+                <StackLayout>
+                    <Label Text="MyApp" 
+                           HorizontalTextAlignment="Center" 
+                           TextColor="White" 
+                           FontSize="36"/>
 
-        <Frame Padding="20" CornerRadius="0" BackgroundColor="#1e1e1e">
-            <Label Text="Olá Mundo!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
-        </Frame>
+                    <Label Text="Uusário:"
+                           Margin="0, 20, 0, 0"/>
+                    <Entry Placeholder="usuário" 
+                           x:Name="txtUsuario"/>
+                    <Label Text="Senha:" 
+                           Margin="0, 20, 0, 0"/>
+                    <Entry Placeholder="senha" 
+                           x:Name="txtSenha"
+                           IsPassword="True"/>
+                    
+                    <StackLayout Orientation="Horizontal">
+                        <CheckBox x:Name="ckbMostrarSenha"
+                              Color="Blue"
+                              CheckedChanged="ckbMostrarSenha_CheckedChanged"/>
+                        <Label Text="Mostrar Senha"
+                           HorizontalTextAlignment="Start"
+                           VerticalTextAlignment="Center"
+                           TextColor="White">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="tapMostrarSenha_Tapped"/>
+                            </Label.GestureRecognizers>
+                        </Label>
+                    </StackLayout>
 
-        <Frame CornerRadius="10">
-            <StackLayout>
-                <Label Text="Uusário:"/>
-                <Entry Placeholder="usuário" x:Name="txtUsuario"/>
-                <Label Text="Senha:"/>
-                <Entry Placeholder="senha" x:Name="txtSenha"/>
-                <Button x:Name="btnEntrar"
+                    <Button x:Name="btnEntrar"
                             Clicked="EntrarClicked"
                             Text="ENTRAR" 
                             BackgroundColor="Gray" 
                             TextColor="White"/>
-            </StackLayout>
-        </Frame>
+                    
+                    <Label HorizontalOptions="Center"
+                       TextColor="White">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Não possui uma conta?"/>
+                                <Span Text="Cadastre-se"
+                                  FontAttributes="Bold"
+                                  TextDecorations="Underline"/>
+                            </FormattedString>
+                        </Label.FormattedText>
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="tapCadastrar_Tapped"/>
+                        </Label.GestureRecognizers>
+                    </Label>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+
+        <StackLayout>
+            <Label Text="Versão 1.0"/>
+        </StackLayout>
     </StackLayout>
 </ContentPage>

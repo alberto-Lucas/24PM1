@@ -40,11 +40,33 @@
             }
         }
 
-        
 
         private void VoltarClicked(object sender, EventArgs e)
         {
             Navigation.PopModalAsync();
+        }
+
+        private void MostrarSenha()
+        {
+            txtSenha.IsPassword =
+                !ckbMostrarSenha.IsChecked;
+        }
+
+        private void ckbMostrarSenha_CheckedChanged(object sender, CheckedChangedEventArgs e)
+        {
+            MostrarSenha();
+        }
+
+        private void tapMostrarSenha_Tapped(object sender, TappedEventArgs e)
+        {
+            //Pricisar atualizar visualmente o checkbox
+            ckbMostrarSenha.IsChecked = !ckbMostrarSenha.IsChecked;
+            MostrarSenha();
+        }
+
+        private void tapCadastrar_Tapped(object sender, TappedEventArgs e)
+        {
+
         }
     }
 
