@@ -2,9 +2,18 @@
 {
     public partial class MainPage : ContentPage
     {
-        public MainPage()
+        public MainPage(string sParametro)
         {
             InitializeComponent();
+            /*
+            lblLogin.Text =
+                "Olá " + sParametro +
+                ", Seja bem-vindo!";
+
+            var usuarioLogado = UsuarioLogado.Instancia;
+
+            lblSingleton.Text = usuarioLogado.Login +
+                " salvo na classe singleton";*/
         }
 
         private void EntrarClicked(object sender, EventArgs e)
@@ -13,6 +22,12 @@
             {
                 //Sem a menu voltar
                 //Navigation.PushModalAsync(new Principal());
+
+                //atribuindo a instancia a variavel
+                var usuarioLogado = UsuarioLogado.Instancia;
+                //atribuindo valores aos atributos da
+                //classe singleton
+                usuarioLogado.Login = txtUsuario.Text;
 
                 //Com menu voltar
                 Application.Current.MainPage.Navigation.PushAsync(new Principal());
@@ -68,6 +83,8 @@
         {
 
         }
+
+
     }
 
 }
