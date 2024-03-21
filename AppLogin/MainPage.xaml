@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLogin.MainPage">
+
+    <StackLayout Padding="20"
+                 VerticalOptions="CenterAndExpand">
+        <Frame CornerRadius="10"
+               BackgroundColor="#4a4a4a">
+            <StackLayout>
+                <Label Text="MyApp"
+                       HorizontalOptions="Center"
+                       TextColor="White"
+                       FontSize="36"/>
+
+                <Label Text="Usuário:"
+                       Margin="0, 20, 0, 0"/>
+                <Entry Placeholder="Usuário"
+                       x:Name="txtUsuario"/>
+
+                <Label Text="Senha:"
+                       Margin="0, 20, 0, 0"/>
+                <Entry Placeholder="Senha"
+                       x:Name="txtSenha"
+                       IsPassword="True"/>
+
+                <StackLayout Orientation="Horizontal">
+                    <CheckBox x:Name="ckbMostrarSenha"
+                              Color="Blue"
+                              CheckedChanged="ckbMostrarSenha_CheckedChanged"/>
+                    <Label Text="Mostrar Senha"
+                           VerticalTextAlignment="Center">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="lblMostrarSenha_Tapped"/>
+                        </Label.GestureRecognizers>
+                    </Label>
+                </StackLayout>
+
+                <Button x:Name="btnEntrar"
+                        Text="ENTRAR"
+                        BackgroundColor="Gray"
+                        TextColor="White"
+                        Clicked="btnEntrar_Clicked"/>
+            </StackLayout>
+        </Frame>   
+    </StackLayout>
+</ContentPage>
