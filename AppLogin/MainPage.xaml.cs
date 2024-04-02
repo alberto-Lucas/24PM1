@@ -24,7 +24,18 @@ public partial class MainPage : ContentPage
         if (txtUsuario.Text == "admin" &&
             txtSenha.Text == "admin")
         {
+            //Atribuir a instancia da classe
+            //singleton em uma variavel
+            var usuarioLogado = 
+                UsuarioLogado.Instancia;
+
+            //Atribuir os valores aos atributos
+            //da classe singleton
+            usuarioLogado.Login = txtUsuario.Text;
             //Vamos abrir a tela principal
+            Application.Current.
+                MainPage.Navigation.
+                PushAsync(new pgPrincipal());
         }
         else
             DisplayAlert("Atenção!!", 
