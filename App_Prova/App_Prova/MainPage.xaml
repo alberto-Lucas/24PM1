@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Prova.MainPage"
+             Background="{StaticResource white_main}">
+
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+
+        <Image Source="{StaticResource gifChris}" HeightRequest="300" Margin="0,0,0,50"></Image>
+
+        <Label Text="ALUNOS : " FontSize="{StaticResource font_large}" 
+               TextColor="{StaticResource darkgray}"
+               Margin="220,0,0,20"> </Label>
+
+        <Label Text="Bryan de Oliveira" 
+               TextColor="{StaticResource darkgray}"
+               Margin="220,0,0,20"
+               FontSize="{StaticResource font_medium}"> </Label>
+
+        <Label Text="Guilherme Caetano" 
+               TextColor="{StaticResource darkgray}"    
+               Margin="220,0,0,20"
+               FontSize="{StaticResource font_medium}"> </Label>
+
+    </StackLayout>
+
+</ContentPage>

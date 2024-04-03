@@ -1,0 +1,33 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App_Prova"
+             x:Class="App_Prova.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Color x:Key="yellowcolor">#f5d442</Color>
+            <Color x:Key="darkgray">#2c2c2c</Color>
+            <Color x:Key="background">#414141</Color>
+            <Color x:Key="white">#d4d4d4</Color>
+            <Color x:Key="white_main">#eee</Color>
+            <Color x:Key="blue_jogo">#0041c2</Color>
+            <x:String x:Key="imgProvaMain">prova_main.png</x:String>
+            <x:String x:Key="imgLinkedin">chris.png</x:String>
+            <x:String x:Key="imgIconLinkedin">linkedin.png</x:String>
+            <x:String x:Key="linkedinLogo">logolinkedin.png</x:String>
+            <x:String x:Key="imgCara">cara_jogo.png</x:String>
+            <x:String x:Key="imgCoroa">coroa_jogo.png</x:String>
+            <x:String x:Key="imgCoin">coin.gif</x:String>
+            <x:String x:Key="gifChris">chrisgifmain.gif</x:String>
+            <x:String x:Key="imgChrisMenu">chris_todomundo.jpg</x:String>
+            <x:String x:Key="imgMenu">familiachris.jpeg</x:String>
+            <x:Double x:Key="font_medium">20</x:Double>
+            <x:Double x:Key="font_large">25</x:Double>
+            
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
+                <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

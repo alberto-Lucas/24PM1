@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Prova.LinkedinPage"
+             Title="LinkedinPage"
+             Background="{StaticResource white}">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Margin="0,0,0,0">
+
+        <VerticalStackLayout Margin="0,0,0,500">
+
+            <HorizontalStackLayout>
+
+                <Image HeightRequest="200" 
+                   Source="{StaticResource linkedinLogo}" Margin="0,0,20,0"></Image>
+
+                <Image
+            Margin="0,0,0,0"
+            HeightRequest="150" 
+            Source="{StaticResource imgLinkedin}"></Image>
+
+            </HorizontalStackLayout>
+
+            <Frame Margin="0,20,0,0" WidthRequest="700">
+
+                <VerticalStackLayout>
+
+                <Label TextColor="{StaticResource darkgray}"
+                Text="NOME : CHRIS ROCK" FontSize="{StaticResource font_medium}"></Label>
+
+                    <Label Text="PROFISSÃO : Varejista "
+                           FontSize="{StaticResource font_medium}"
+                           TextColor="{StaticResource darkgray}"></Label>
+
+                    <Label Text="EMPRESA : Doc-Cia "
+                           FontSize="{StaticResource font_medium}"
+                           TextColor="{StaticResource darkgray}"></Label>
+
+                    <Label Text="CIDADE : Brooklyn "
+                           FontSize="{StaticResource font_medium}"
+                           TextColor="{StaticResource darkgray}"></Label>
+
+                    <Label Text="ESTADO : Nova York "
+                           FontSize="{StaticResource font_medium}"
+                           TextColor="{StaticResource darkgray}"></Label>
+
+                    <Label Text="PAÍS : EUA "
+                           FontSize="{StaticResource font_medium}"
+                           TextColor="{StaticResource darkgray}"></Label>
+
+                    <Label Text="ESTUDOS : Ensino Médio "
+                           FontSize="{StaticResource font_medium}"
+                           TextColor="{StaticResource darkgray}"></Label>
+
+                    <Label Text="INSTITUIÇÃO DE ENSINO : Corleone Junior High School"
+                           FontSize="{StaticResource font_medium}"
+                           TextColor="{StaticResource darkgray}"></Label>
+
+                    <Label Text="HABILIDADES : Imortalidade, Ficou Bem Após Ter Seu Pescoço Quebrado "
+                           FontSize="{StaticResource font_medium}"
+                           TextColor="{StaticResource darkgray}"></Label>
+
+
+                </VerticalStackLayout>
+
+
+            </Frame>
+
+        </VerticalStackLayout>
+
+    </StackLayout>
+    
+</ContentPage>

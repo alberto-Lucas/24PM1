@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Prova.App_Menu"
+             Title="App_Menu"
+             Shell.NavBarIsVisible="False"
+             Shell.TabBarIsVisible="False"
+             xmlns:local="clr-namespace:App_Prova">
+
+    <Shell.FlyoutHeader>
+        <StackLayout>
+            <Image Source="{StaticResource imgMenu}" HeightRequest="200"></Image>
+        </StackLayout>
+    </Shell.FlyoutHeader>
+
+    <FlyoutItem Route="Main" FlyoutDisplayOptions="AsMultipleItems">
+
+        <ShellContent Title="Principal" Icon="{StaticResource imgChrisMenu}"  ContentTemplate="{DataTemplate local:MainPage}"/>
+        <ShellContent Title="Linkedin" Icon="{StaticResource imgIconLinkedin}" ContentTemplate="{DataTemplate local:LinkedinPage}"/>
+        <ShellContent Title="Cara Ou Coroa" Icon="{StaticResource imgCoin}" ContentTemplate="{DataTemplate local:CaraOuCoroa}"/>
+
+    </FlyoutItem>
+
+    <Shell.FlyoutFooter>
+        <Label Text="VERSÃO 2.0" Margin="10,0,0,10"></Label>
+    </Shell.FlyoutFooter>
+
+</Shell>

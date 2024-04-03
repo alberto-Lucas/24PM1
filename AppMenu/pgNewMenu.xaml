@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMenu.pgNewMenu"
+             Title="pgNewMenu">
+    <VerticalStackLayout>
+        <Button Text="Voltar"
+                BackgroundColor="Transparent"
+                HorizontalOptions="Start"
+                Clicked="btnVoltar_Clicked"/>
+
+        <StackLayout Padding="15,0">
+            <Label Text="Olá xxx, seja bem-vindo!"
+                   x:Name="lblLogin"/>
+
+            <Label Text="label Singleton"
+                   x:Name="lblSingleton"/>
+        </StackLayout>
+        <StackLayout Padding="30">
+            <Label Text="Menu"
+                   HorizontalTextAlignment="Center"
+                   FontSize="40"/>
+
+            <Frame BackgroundColor="Gray">
+                <StackLayout>
+                    <Button Text="Clientes"
+                            Clicked="btnClientes_Clicked"
+                            BackgroundColor="Green"
+                            TextColor="White"/>
+                    <Button Text="Música"/>
+                    <Button Text="Cinema"/>
+                    <Button Text="Jogos"/>
+                    <Button Text="Random"/>
+                </StackLayout>
+            </Frame>
+
+
+        </StackLayout>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Prova.CaraOuCoroa"
+             Title="CaraOuCoroa">
+
+
+    <StackLayout>
+
+        <HorizontalStackLayout VerticalOptions="Start" HorizontalOptions="Start">
+
+            <HorizontalStackLayout>
+
+                <Label Text="CARA"
+                   Margin="40,180,0,0"
+                   x:Name="lblcara"
+                   FontSize="{StaticResource font_medium}"></Label>
+
+                <CheckBox Background="#000" Margin="10,0,0,0" x:Name="opcaoCara" CheckedChanged="validacao"></CheckBox>
+
+                <Image Source="{StaticResource imgCara}" HeightRequest="200"></Image>
+
+                <HorizontalStackLayout VerticalOptions="End" HorizontalOptions="End" Margin="300,90,0,0">
+
+                    <HorizontalStackLayout>
+
+                        <Label Text="COROA"
+                   Margin="0,85,20,0"
+                   x:Name="lblcoroa"
+                   FontSize="{StaticResource font_medium}">
+                        </Label>
+
+                        <CheckBox Background="#000" Margin="0,0,0,100" x:Name="opcaoCoroa" CheckedChanged="validacao"></CheckBox>
+
+                        <Image Source="{StaticResource imgCoroa}" HeightRequest="200" Margin="0,0,0,100"></Image>
+
+                    </HorizontalStackLayout>
+
+                </HorizontalStackLayout>
+
+            </HorizontalStackLayout>
+
+            </HorizontalStackLayout>
+
+        <Button Text="JOGAR" WidthRequest="400" BackgroundColor="{StaticResource blue_jogo}" Clicked="jogar"></Button>
+
+        <Label Text="RESULTADO AQUI" HorizontalOptions="Center" Margin="0,25,0,0" FontSize="{StaticResource font_medium}
+            " x:Name="lblresult"></Label>
+
+    </StackLayout>
+
+    
+</ContentPage>

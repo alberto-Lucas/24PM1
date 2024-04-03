@@ -1,0 +1,1007 @@
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.exe
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.deps.json
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.runtimeconfig.json
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.pdb
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.323.6910.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.csproj.CopyComplete
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\App_Prova.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.pdb
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.genruntimeconfig.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\App_Prova.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\choice.scale-100.png
+C:\Users\bryan\OneDrive\Área de Trabalho\Files\STUDY\3 - ANO\MOBILE\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\login.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.exe
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.deps.json
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.runtimeconfig.json
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.pdb
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.222.60605.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.csproj.AssemblyReference.cache
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\choice.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\login.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.AssemblyInfoInputs.cache
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.AssemblyInfo.cs
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.csproj.CoreCompileInputs.cache
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.csproj.CopyComplete
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\App_Prova.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.pdb
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.genruntimeconfig.cache
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\App_Prova.dll
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\mainprova.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\chris.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\linkedin.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logolinkedin.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\cara.scale-100.jpg
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\coroa.scale-100.jpg
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\prova.scale-100.jpg
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\prova_main.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\cara_jogo.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\coroa_jogo.scale-100.png
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\familiachris.scale-100.jpeg
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\coin.scale-100.gif
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\chris_todomundo.scale-100.jpg
+C:\Users\Unifafibe\Desktop\mobile\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\chrisgifmain.scale-100.gif
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.exe
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.deps.json
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.runtimeconfig.json
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.pdb
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1523.57226.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.csproj.AssemblyReference.cache
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\cara.scale-100.jpg
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\cara_jogo.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\choice.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\chris.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\chrisgifmain.scale-100.gif
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\chris_todomundo.scale-100.jpg
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\coin.scale-100.gif
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\coroa.scale-100.jpg
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\coroa_jogo.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\familiachris.scale-100.jpeg
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\linkedin.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\login.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logolinkedin.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\mainprova.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\prova.scale-100.jpg
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\prova_main.scale-100.png
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.AssemblyInfoInputs.cache
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.AssemblyInfo.cs
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.csproj.CoreCompileInputs.cache
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.sourcelink.json
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.csproj.CopyComplete
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\App_Prova.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.pdb
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\App_Prova.genruntimeconfig.cache
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\App_Prova.dll
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\GitHub\24PM1\App_Prova\App_Prova\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
