@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMenu.pgMenu"
+             Title="pgMenu"
+             xmlns:local="clr-namespace:AppMenu"
+             Shell.NavBarIsVisible="False"
+             Shell.TabBarIsVisible="False">
+
+    <Shell.FlyoutHeader>
+        <StackLayout
+            BackgroundColor="Gray">
+            <Image Source="img.png" 
+                   HeightRequest="200"/>
+            <Label Text="lucas@lucas.com"/>
+        </StackLayout>
+    </Shell.FlyoutHeader>
+
+    <FlyoutItem 
+        FlyoutDisplayOptions="AsMultipleItems">
+        <ShellContent Title="Principal"
+                      Icon="icone_home.png"
+                      ContentTemplate=
+                      "{DataTemplate 
+                        local:pgPrincipal}"/>
+
+        <ShellContent Title="Cadastro Cliente"
+                      ContentTemplate=
+                      "{DataTemplate 
+                        local:pgCadCliente}"/>
+
+        <ShellContent Title="Sobre"
+                      ContentTemplate=
+                      "{DataTemplate 
+                        local:pgSobre}"/>
+    </FlyoutItem>
+
+    <Shell.FlyoutFooter>
+        <Label Text="Versão 2.0"
+               Margin="10, 0, 0, 10"/>
+    </Shell.FlyoutFooter>
+    
+</Shell>
