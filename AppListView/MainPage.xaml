@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppListView.MainPage">
+    <StackLayout Padding="5">
+        <StackLayout>
+            <Entry x:Name="txtNome"
+                   Placeholder="Nome"
+                   ClearButtonVisibility="WhileEditing"/>
+
+            <Entry x:Name="txtIdade"
+                   Placeholder="Idade"
+                   ClearButtonVisibility="WhileEditing"/>
+
+            <Button x:Name="btnAdicionar"
+                    Text="Adicionar à Lista"
+                    FontSize="20"
+                    TextColor="White"
+                    BackgroundColor="#333333"
+                    Margin="0, 10, 0, 0"
+                    Clicked="btnAdicionar_Clicked"/>
+        </StackLayout>
+        <ListView x:Name="lsvItens">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Frame CornerRadius="10"
+                               Padding="10"
+                               Margin="5"
+                               BackgroundColor="#414142">
+                            <StackLayout>
+                                <Label Text="{Binding Nome}"
+                                       FontSize="20"
+                                       FontAttributes="Bold"/>
+                                <Label Text="{Binding Idade}"/>
+                            </StackLayout>                            
+                        </Frame>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>        
+    </StackLayout>
+</ContentPage>
