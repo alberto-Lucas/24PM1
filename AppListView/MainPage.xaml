@@ -33,6 +33,9 @@
                                        FontSize="20"
                                        FontAttributes="Bold"/>
                                 <Label Text="{Binding Idade}"/>
+                                <Button Text="Deletar"
+                                        Clicked="btnDeletar_Clicked"
+                                        CommandParameter="{Binding .}"/>
                             </StackLayout>                            
                         </Frame>
                     </ViewCell>
