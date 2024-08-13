@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SplashScreenAnimation.MainPage">
+    <StackLayout>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Image x:Name="imgLogo"
+                   Source="world.png"
+                   HeightRequest="200"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+        </StackLayout>
+        <StackLayout VerticalOptions="End">
+            <Button Text="Girar Esquerda"
+                    Clicked="btnGirarEsquerdaClicked"/>
+            <Button Text="Girar Direita"
+                    Clicked="btnGirarDireitaClicked"/>
+            <Button Text="Girar Vertical"
+                    Clicked="btnGirarVerticalClicked"/>
+            <Button Text="Girar Horizontal"
+                    Clicked="btnGirarHorizontalClicked"/>
+            <Button Text="Zoom +"
+                    Clicked="btnZoomMaisClicked"/>
+            <Button Text="Zoom -"
+                    Clicked="btnZoomMenosClicked"/>
+            <Button Text="Tremer"
+                    Clicked="btnTremerClicked"/>
+            <Button Text="Girar Zoom"
+                    Clicked="btnGirarZoomClicked"/>
+            <Button Text="Fade"
+                    Clicked="btnFadeClicked"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
